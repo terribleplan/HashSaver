@@ -1,0 +1,26 @@
+{
+  "name": "HashSaver",
+  "version": "0.1.0",
+  "description": "A simple way to ensure hash values are preserved through multiple redirects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/terribleplan/HashSaver.git"
+  },
+  "keywords": [
+    "connect",
+    "middleware",
+    "hash",
+    "redirect",
+    "ie"
+  ],
+  "author": "Kegan Myers <kegan@keganmyers.com> (http://keganmyers.com/)",
+  "license": "BSD 2-Clause",
+  "bugs": {
+    "url": "https://github.com/terribleplan/HashSaver/issues"
+  },
+  "homepage": "https://github.com/terribleplan/HashSaver"
+}
